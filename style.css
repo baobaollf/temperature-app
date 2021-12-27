@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://source.unsplash.com/random/");
+    color: aliceblue;
+
+}
+
+.box {
+    padding: 2em;
+    background-color: #020202;
+    opacity: 80%;
+    border-radius: 1em;
+}
+
+.discription {
+    text-transform: capitalize;
+}
+
+.info {
+    visibility: hidden;
+}
